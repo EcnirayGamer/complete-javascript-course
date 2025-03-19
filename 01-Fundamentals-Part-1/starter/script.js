@@ -167,10 +167,10 @@ description = `${country} is in ${continent}, and its ${population} people speak
 
 console.log(description);
 */
-/*
-//taking decisions if/eelse statments
 
-const age = 19;
+//taking decisions if/eelse statments
+/*
+const age = 15;
 
 if (age >= 18) {
     console.log('Yar can start driving now 🚗');
@@ -257,6 +257,7 @@ if (height) {
 } 
 */
 
+/*
 //Equality Opeerations
 const age = 18;
 
@@ -294,3 +295,4 @@ if (numNeighbours === 1) {
 } else {
     console.log('no borders')
 }
+*/
